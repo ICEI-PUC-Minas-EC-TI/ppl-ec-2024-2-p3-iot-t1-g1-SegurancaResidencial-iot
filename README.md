@@ -1,26 +1,26 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS`
+`CAMPUS LOURDES`
 
-`CURSO`
+`ENGENHARIA DA COMPUTAÇÃO`
 
-`SEMESTRE`
+`3° SEMESTRE`
 
-`DISCIPLINA`
+`BANCO DE DADOS / INTERNET DAS COISAS`
 
 
 ## Integrantes
 
 * Nome completo do aluno 1
-* Nome completo do aluno 2
+* Alex de Castro Mendes Marques
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1 (Nome do professor de IoT1)
-* Nome completo do professor 2 (Nome do professor de Banco de Dados)
+* Júlio Cesar Dilinger Conway
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
