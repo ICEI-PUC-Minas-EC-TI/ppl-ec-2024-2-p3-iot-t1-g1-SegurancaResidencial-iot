@@ -12,7 +12,6 @@
 * Alex de Castro Mendes Marques
 * Lucas Ferreira Barros
 * João Victor 
-* Nome completo do aluno 5
 
 ## Orientador
 
