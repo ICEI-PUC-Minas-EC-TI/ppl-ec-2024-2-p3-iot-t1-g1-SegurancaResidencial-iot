@@ -26,7 +26,7 @@
 
 Este projeto consiste no desenvolvimento de um **sistema de segurança residencial** utilizando diversos componentes integrados, como HC-SR501 PIR (sensor de presença), HC-SR04 (sensor de distância), teclado matricial, servo motores, ESP32 e ESP32-CAM. Na parte externa da residência, a ESP32-CAM será responsável por registrar imagens, enquanto o sensor de distância monitorará a proximidade de objetos ou pessoas. O acesso à casa será controlado por um teclado matricial, onde a digitação da senha correta acionará os servo motores para abrir a porta.  
 
-No interior da residência, o sensor de presença HC-SR501 detectará movimentações, permitindo identificar a presença de indivíduos dentro do imóvel. Combinando monitoramento visual, sensores e controle de acesso, o sistema oferece uma solução integrada e eficiente para a segurança da residência.
+No interior da residência, o sensor de presença HC-SR501 detectará movimentações, permitindo identificar a presença de indivíduos dentro do imóvel. A interface para controle e monitoramento do sistema é realizada pelo aplicativo MQTT Painel, permitindo ao usuário acessar as informações em tempo real e gerenciar os dispositivos de forma remota. Este conjunto de tecnologias oferece uma solução acessível, eficiente e segura para o controle e monitoramento residencial.
 
 # Código (do arduino ou esp32)
 
