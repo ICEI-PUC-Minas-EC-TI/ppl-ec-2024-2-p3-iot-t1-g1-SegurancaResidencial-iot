@@ -6,9 +6,6 @@
 
 `3° SEMESTRE`
 
-`BANCO DE DADOS / INTERNET DAS COISAS`
-
-
 ## Integrantes
 
 * Julia Brito Oliveira 
