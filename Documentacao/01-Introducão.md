@@ -1,27 +1,32 @@
 # Introdução
 
-Este projeto consiste no desenvolvimento de um sistema de segurança residencial inteligente, integrando sensores, dispositivos de controle e monitoramento remoto. A proposta visa proporcionar maior proteção ao ambiente residencial, utilizando tecnologias acessíveis e modernas, como ESP32, ESP32-CAM, sensores HC-SR501 e HC-SR04, teclado matricial e servo motores.
+Este projeto consiste no desenvolvimento de um sistema de segurança residencial inteligente, que integra monitoramento remoto, controle de acesso e detecção de movimentação. Utilizando componentes como ESP32, ESP32-CAM, sensores de distância (HC-SR04) e presença (HC-SR501), teclado matricial e servo motores, o sistema proporciona uma solução acessível e prática para a proteção de residências. Com a interface no aplicativo MQTT Painel, o usuário tem controle e visualização em tempo real das atividades ao redor e dentro da residência.  
 
-O problema de segurança em residências é uma questão recorrente, especialmente em áreas urbanas. Este sistema tem como objetivo mitigar riscos de invasão, controle inadequado de acesso e ausência de monitoramento interno e externo. A justificativa para o desenvolvimento do projeto baseia-se na crescente necessidade de soluções eficientes e acessíveis para segurança residencial. O público-alvo inclui proprietários de imóveis interessados em implementar um sistema personalizado e adaptado às suas necessidades, independentemente do nível de conhecimento técnico.
+A motivação do projeto surge do aumento da preocupação com a segurança em ambientes residenciais, especialmente em áreas urbanas. A proposta justifica-se pela necessidade de sistemas personalizados e de baixo custo, que possam ser implementados mesmo por usuários com conhecimentos técnicos limitados. O público-alvo inclui proprietários de imóveis que buscam alternativas eficientes e adaptáveis para a segurança de suas residências.  
 
-## Problema
+### **Problema**  
 
-A segurança de residências é frequentemente comprometida pela falta de sistemas integrados que combinem monitoramento externo, controle de acesso e detecção de movimentações internas. Além disso, muitos sistemas disponíveis no mercado são caros ou complexos de implementar para usuários sem conhecimento técnico avançado.
+A segurança de residências enfrenta desafios como a falta de monitoramento contínuo, controle de acesso eficiente e detecção de presença interna. Sistemas comerciais disponíveis frequentemente possuem custo elevado e exigem infraestrutura complexa, o que os torna inacessíveis para muitas pessoas.  
 
-Este projeto aborda o problema de criar um sistema acessível, eficaz e de fácil configuração, adequado para uso em residências de qualquer porte. O contexto tecnológico inclui a utilização de microcontroladores (ESP32 e ESP32-CAM), sensores para automação, e interfaces como teclado matricial e servo motores. Esses dispositivos foram escolhidos por sua ampla disponibilidade e custo-benefício. 
+O projeto visa resolver esses problemas ao oferecer uma solução integrada, que combina tecnologias acessíveis e de fácil configuração. No contexto do projeto, a ESP32-CAM é usada para capturar imagens externas, os sensores para monitorar movimentos, e o aplicativo MQTT Painel para gerenciar e visualizar as informações em tempo real.  
 
-## Objetivos
+---
 
-Desenvolver um sistema de segurança residencial integrado que combine monitoramento remoto, controle de acesso e detecção de presença, proporcionando maior proteção e praticidade aos usuários.
+### **Objetivos**  
 
-Objetivos Específicos:
-- Implementar um sistema de controle de acesso baseado em senha, utilizando teclado matricial e servo motores.
-- Criar uma solução de monitoramento externo com captura de imagens em tempo real através do ESP32-CAM.
-- Integrar sensores de distância e presença para detecção de movimentos externos e internos.
-- Proporcionar uma interface de fácil configuração e utilização, permitindo que usuários sem conhecimentos avançados configurem o sistema.
- 
-## Público-Alvo
+**Objetivo Geral:**  
+Desenvolver um sistema de segurança residencial integrado, acessível e funcional, capaz de oferecer monitoramento remoto, controle de acesso e detecção de movimentos.  
 
-O público-alvo deste projeto inclui proprietários de residências interessados em melhorar a segurança de seus imóveis, mas que não desejam depender de serviços de segurança terceirizados ou sistemas caros. Este público é diversificado, abrangendo desde indivíduos com conhecimento básico em tecnologia até entusiastas de automação residencial.
+**Objetivos Específicos:**  
+1. Criar um sistema de controle de acesso baseado em senha utilizando teclado matricial e servo motores.  
+2. Implementar um sistema de monitoramento externo com captura e transmissão de imagens em tempo real pela ESP32-CAM.  
+3. Configurar sensores para detectar aproximações externas e presença interna com precisão e eficiência.  
+4. Integrar o sistema com o aplicativo MQTT Painel para facilitar o controle e o monitoramento pelo usuário.  
 
-Para atender a esse perfil, o sistema foi projetado com foco em facilidade de uso e acessibilidade. Usuários com experiência limitada em microcontroladores poderão configurar e operar o sistema com suporte de uma documentação clara e direta.
+---
+
+### **Público-Alvo**  
+
+O sistema foi projetado para atender proprietários de residências que buscam soluções acessíveis e personalizáveis para segurança. O público-alvo inclui pessoas com conhecimentos básicos em tecnologia, que possam configurar e operar o sistema com apoio de guias claros, bem como entusiastas de automação residencial, interessados em expandir as funcionalidades do sistema conforme suas necessidades.  
+
+Ao priorizar facilidade de uso e compatibilidade com dispositivos amplamente disponíveis, o projeto atende usuários que desejam adotar soluções tecnológicas sem depender de serviços de segurança caros ou complexos.  
