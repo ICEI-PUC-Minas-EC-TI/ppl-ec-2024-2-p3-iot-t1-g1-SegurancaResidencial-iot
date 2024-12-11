@@ -4,13 +4,15 @@ Este projeto consiste no desenvolvimento de um sistema de segurança residencial
 
 A motivação do projeto surge do aumento da preocupação com a segurança em ambientes residenciais, especialmente em áreas urbanas. A proposta justifica-se pela necessidade de sistemas personalizados e de baixo custo, que possam ser implementados mesmo por usuários com conhecimentos técnicos limitados. O público-alvo inclui proprietários de imóveis que buscam alternativas eficientes e adaptáveis para a segurança de suas residências.  
 
+#
+
 ### **Problema**  
 
 A segurança de residências enfrenta desafios como a falta de monitoramento contínuo, controle de acesso eficiente e detecção de presença interna. Sistemas comerciais disponíveis frequentemente possuem custo elevado e exigem infraestrutura complexa, o que os torna inacessíveis para muitas pessoas.  
 
 O projeto visa resolver esses problemas ao oferecer uma solução integrada, que combina tecnologias acessíveis e de fácil configuração. No contexto do projeto, a ESP32-CAM é usada para capturar imagens externas, os sensores para monitorar movimentos, e o aplicativo MQTT Painel para gerenciar e visualizar as informações em tempo real.  
 
----
+#
 
 ### **Objetivos**  
 
@@ -23,7 +25,7 @@ Desenvolver um sistema de segurança residencial integrado, acessível e funcion
 3. Configurar sensores para detectar aproximações externas e presença interna com precisão e eficiência.  
 4. Integrar o sistema com o aplicativo MQTT Painel para facilitar o controle e o monitoramento pelo usuário.  
 
----
+#
 
 ### **Público-Alvo**  
 
