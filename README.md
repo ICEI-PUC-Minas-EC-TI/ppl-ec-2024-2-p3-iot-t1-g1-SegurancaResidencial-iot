@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Segurança Residencial
 
 `CAMPUS LOURDES`
 
@@ -24,7 +24,9 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto consiste no desenvolvimento de um **sistema de segurança residencial** utilizando diversos componentes integrados, como HC-SR501 PIR (sensor de presença), HC-SR04 (sensor de distância), teclado matricial, servo motores, ESP32 e ESP32-CAM. Na parte externa da residência, a ESP32-CAM será responsável por registrar imagens, enquanto o sensor de distância monitorará a proximidade de objetos ou pessoas. O acesso à casa será controlado por um teclado matricial, onde a digitação da senha correta acionará os servo motores para abrir a porta.  
+
+No interior da residência, o sensor de presença HC-SR501 detectará movimentações, permitindo identificar a presença de indivíduos dentro do imóvel. Combinando monitoramento visual, sensores e controle de acesso, o sistema oferece uma solução integrada e eficiente para a segurança da residência.
 
 # Código (do arduino ou esp32)
 
