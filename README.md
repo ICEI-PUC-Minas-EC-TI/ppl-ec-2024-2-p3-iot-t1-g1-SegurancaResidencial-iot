@@ -4,7 +4,7 @@
 
 `ENGENHARIA DA COMPUTAÇÃO`
 
-`3° SEMESTRE`
+`3° PERÍODO`
 
 ## Integrantes
 
