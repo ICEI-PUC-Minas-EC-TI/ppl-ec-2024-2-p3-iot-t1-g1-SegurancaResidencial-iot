@@ -11,10 +11,10 @@
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Julia Brito Oliveira 
 * Alex de Castro Mendes Marques
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lucas Ferreira Barros
+* João Victor 
 * Nome completo do aluno 5
 
 ## Orientador
