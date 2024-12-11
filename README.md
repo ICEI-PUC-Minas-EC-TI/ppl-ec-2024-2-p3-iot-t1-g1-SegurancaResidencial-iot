@@ -11,7 +11,7 @@
 * Julia Brito Oliveira 
 * Alex de Castro Mendes Marques
 * Lucas Ferreira Barros
-* João Victor 
+* João Victor Wanderley lamon
 
 ## Orientador
 
