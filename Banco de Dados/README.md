@@ -5,6 +5,7 @@ Use esta pasta para salvar os seguintes projetos:
 #
 - Projeto lógico (modelo relacional)
 
-![ModeloRelacional](https://github.com/user-attachments/assets/11ada5f9-c451-4e78-b7b2-d93d52e28652)
+![Captura de tela 2024-12-12 234324](https://github.com/user-attachments/assets/535cfa3b-df27-4f0b-9752-0307cea7f5d9)
+
 #
 - Projeto físico (implementação do banco de dados no SGBD)
